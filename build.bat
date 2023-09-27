@@ -4,7 +4,7 @@ SetLocal EnableDelayedExpansion
 
 SET CC=gcc
 SET EXT=c
-SET PROJECT=EZVM
+SET PROJECT=VFSystem
 SET SRC=src
 SET OBJ=obj
 SET BINDIR=bin

@@ -1,0 +1,13 @@
+help
+done
+ls       : directory
+stat     : local : file | remote : file
+create   : local | net | real
+mkdir    : local | net | real
+open     : wake | run : program 
+close    : perma | sleep
+closeall : perma | sleep
+save     : session : name | config : real_location
+load     : session | config
+rm		 : local | global
+ps1      : new
